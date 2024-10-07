@@ -1,0 +1,91 @@
+header{
+    background-color: rgba(59, 36, 36, 0.589);
+    display: flex;
+    
+}
+.Home {
+    margin: 10px;
+    text-align: right;
+    flex: 1 1 50%;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+footer {
+    background: #333;
+    color: #080808;
+    text-align: center;
+    padding: 1rem 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.category{
+    display: flex;
+    border: 1px;
+    padding: 10px;
+    
+}
+
+.About {
+    margin : 10px;
+
+}
+.Portfolio {
+    margin : 10px;
+
+}
+
+.Section-style {
+    background-color: beige;
+    border: 1px;
+    padding: 10px;
+}
+.Section-index-style {
+    background-color: beige;
+    border: 1px;
+    padding: 10px;
+    display: flex;
+}
+.Section-portfolio-style{
+    background-color: beige;
+    border: 10px;
+    padding:10px 0 330px 0;
+}
+
+h1{
+    font-size: 3em;
+}
+
+h4{
+    text-align: center;
+}
+.container { 
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+}
+.photo-style{
+    width: 100%;
+    height: 100%;
+    max-width: 150%;
+    margin-bottom: 3rem;
+
+    }
+.address{
+    position: absolute ;
+    bottom: 32px;
+    background-color: beige;
+    padding-bottom: 26px;
+    padding-right: 1770px;
+
+
+   
+}
+.figure{
+    padding-right: 50px;
+}
